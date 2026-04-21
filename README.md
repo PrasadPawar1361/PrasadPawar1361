@@ -3,15 +3,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/prasad-pawar-8586ab28a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+  </a>
 
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PrasadPawar1361&color=0e75b6&style=flat" />
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
@@ -44,12 +46,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ ## 🔥 My Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PrasadPawar1361&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 </div>
 
 ###
