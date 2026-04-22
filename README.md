@@ -59,4 +59,4 @@
 
 ### 🐍 Contribution Snake
 
-![Snake](https://github.com/PrasadPawar1361/PrasadPawar1361/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/PrasadPawar1361/PrasadPawar1361/blob/output/github-contribution-grid-snake.svg)
