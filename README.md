@@ -51,10 +51,3 @@
 ###
 
 
-<div align="center">
- ## 🔥 My Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PrasadPawar1361&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
