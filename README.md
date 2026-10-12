@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">  🤝 Let’s build, learn, and grow together.<br> 👯 I’m looking to collaborate on java full stack project <br> ☕ Java isn’t just a language for me—it’s something I truly enjoy working with... <br>🚀 Java Developer building real-world applications...<br>🕉️ “Focus on your work, not the outcome” -—Shree Krishna<br><br></p>
+<p align="left">  🤝 Let’s build, learn, and grow together.<br> 👯 I’m looking to collaborate on java full stack project <br> ☕ Java isn’t just a language for me—it’s something I truly enjoy working with... <br>🚀 Java Developer building real-world applications...<br></p>
 
 ###
 
